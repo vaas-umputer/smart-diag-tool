@@ -1,0 +1,15 @@
+2025-07-19 12:11:13,686 - network - INFO - User provided IP address: 8.8.8.8
+2025-07-19 12:11:13,686 - network - INFO - Pinging 8.8.8.8...
+2025-07-19 12:11:16,788 - network - INFO - Ping to 8.8.8.8 successful.
+
+Pinging 8.8.8.8 with 32 bytes of data:
+Reply from 8.8.8.8: bytes=32 time=29ms TTL=112
+Reply from 8.8.8.8: bytes=32 time=57ms TTL=112
+Reply from 8.8.8.8: bytes=32 time=34ms TTL=112
+Reply from 8.8.8.8: bytes=32 time=32ms TTL=112
+
+Ping statistics for 8.8.8.8:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 29ms, Maximum = 57ms, Average = 38ms
+

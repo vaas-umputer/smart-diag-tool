@@ -1,0 +1,13 @@
+2025-07-19 12:04:00,865 - network - INFO - User provided IP address: 255.255.240.0
+2025-07-19 12:04:00,865 - network - INFO - Pinging 255.255.240.0...
+2025-07-19 12:04:03,964 - network - ERROR - Ping to 255.255.240.0 failed.
+
+Pinging 255.255.240.0 with 32 bytes of data:
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+PING: transmit failed. General failure. 
+
+Ping statistics for 255.255.240.0:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
